@@ -1,0 +1,4 @@
+[submodule "ahilali-arkeup/odoo_test"]
+	path = ahilali-arkeup/odoo_test
+	url = git@github.com:ahilali-arkeup/odoo_test.git
+	branch = main
